@@ -2,6 +2,8 @@
 
 Rumble is a lightweight alternative to Google Search Engine that aims to provide fast and relevant search results while respecting user privacy. This React app is built using Vite, a fast and efficient build tool for modern web development.
 
+visit the webste [here](rumble.pages.dev)
+
 ## Features
 
 - Fast and efficient search algorithm
