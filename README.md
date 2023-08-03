@@ -22,4 +22,4 @@ To start the development server, run the following command:
 pnpm run dev
 ```
 
-This will launch the development server at `http://localhost:3000`.
+This will launch the development server at `http://localhost:3000`
