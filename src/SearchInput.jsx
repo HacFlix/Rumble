@@ -13,7 +13,7 @@ function SearchInput({ buttons }) {
     setSearchItems({});
 
     const res = await fetch(
-      `https://customsearch.googleapis.com/customsearch/v1?key=AIzaSyALPf9bnHxq9Jbr_5DHeoT1VO2Sg1WOMu0&cx=e15503a122c9748bd&q=${search}`
+      `https://customsearch.googleapis.com/customsearch/v1?key=AIzaSyARaMXFJI-3bmgW95-gejWIT4D74RTVcvU&cx=8238bb5bd40e448fa&q=${search}`
     );
     const data = await res.json();
     setSearchItems(data);
